@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Reinforcement and Deep Learning**
+- 🌱 I’m currently learning **Computer Vision and Deep Learning**
 
 - 📫 How to reach me **b22ee075@iitj.ac.in**
